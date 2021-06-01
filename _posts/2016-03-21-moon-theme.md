@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Condor Array Telescope"
+title:  "Jekyll Moon Theme"
 date:   2021-06-01
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
