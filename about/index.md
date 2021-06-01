@@ -1,24 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2021-06-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I am a current graduate student at the University of Illinois Urbana-Champaign, pursuing a PhD in astronomy. I'm interested in black holes, active galactic nuclei, and anything having to so with compact objects or gravity (as well as particle physics, quantum mechanics, machine learning, etc). Basically, if it's something you've heard in a sci-fi movie, I'm probably interested in it. 
 
 ## Preview
 
