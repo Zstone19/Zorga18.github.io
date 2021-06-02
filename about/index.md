@@ -58,3 +58,18 @@ Strangely, I also enjoy listening to some of the more typical or 80s-ish music f
 
 and probably anything else you could think of.
 
+
+
+#Any Questions?
+
+<div id="contact">
+        <h2>Get in Contact</h2>
+        <div id="contact-form">
+                <form action="https://formspree.io/f/mayaolyg" method="POST">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
