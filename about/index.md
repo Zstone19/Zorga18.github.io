@@ -11,7 +11,7 @@ I am a current graduate student at the University of Illinois Urbana-Champaign, 
 
 I'm also into listening to music (what a vague statement, I know). More specifically, I listen to classic rock, hard rock, and a little bit of early metal from the 80's - 90's. I also used to listen to some EDM, but from around 2014 so I'm clueless as to what has come out afterwards. Here is a list of some of the artists I usually listen to:
 
-* Th Beatles
+* The Beatles
 * The Rolling Stones
 * Steely Dan
 * Van Halen
