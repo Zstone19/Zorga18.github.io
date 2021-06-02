@@ -60,8 +60,6 @@ and probably anything else you could think of.
 
 
 
-#Any Questions?
-
 <div id="contact">
         <h2>Get in Contact</h2>
         <div id="contact-form">
